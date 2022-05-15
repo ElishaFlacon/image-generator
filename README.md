@@ -6,6 +6,7 @@
 
 
   Pillow==8.4.0
+  
   ipython==7.30.1
 
 
