@@ -13,11 +13,11 @@
 
 
 <h2>
-  🛠️ Библиотеки для работы программы:
+  🛠️ Инструменты, которые использовались при разработке генератора:
 </h2>
 
-- Pillow==8.4.0
-- ipython==7.30.1
+- Python
+- Pillow
 
 
 
@@ -29,13 +29,13 @@
   🚀 Зпуск приложения:
 </h2>
 
-- git clone https://github.com/ElishaFlacon/image-generator.git
-- cd image-generator
-- python -m venv <venv_name>
-- source <venv_name>/Scripts/activate (linux) or <venv_name>/Scripts/activate (windows)
-- pip install -r ./requirements.txt
+- `git clone https://github.com/ElishaFlacon/image-generator.git`
+- `cd image-generator`
+- `python -m venv <venv_name>`
+- `<venv_name>/Scripts/activate` (windows) или `source <venv_name>/Scripts/activate` (linux)
+- `pip install -r ./requirements.txt`
 - изменяем код под свои нужды
-- python main.py
+- `python main.py`
 <h3>
     Запускаем, не работет, ура! 🗿🚬
 </h3>
